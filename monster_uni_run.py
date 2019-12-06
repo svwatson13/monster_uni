@@ -1,5 +1,5 @@
 from monster_uni_classes import *
-
+workshops = ['Spooktober', 'NervyNovember', 'MayDay']
 Sam = Student_Monster(4756, '2:1')
 print(Sam.uni_id)
 print(Sam.grade)
